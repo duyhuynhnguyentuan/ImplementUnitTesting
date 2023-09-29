@@ -14,6 +14,7 @@
 		6635F4FD2AC6D67900D4407A /* ImplementUnitTestingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6635F4FC2AC6D67900D4407A /* ImplementUnitTestingTests.swift */; };
 		6635F5072AC6D67900D4407A /* ImplementUnitTestingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6635F5062AC6D67900D4407A /* ImplementUnitTestingUITests.swift */; };
 		6635F5092AC6D67900D4407A /* ImplementUnitTestingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6635F5082AC6D67900D4407A /* ImplementUnitTestingUITestsLaunchTests.swift */; };
+		6635F5162AC6D69600D4407A /* Checkout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6635F5152AC6D69600D4407A /* Checkout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		6635F5022AC6D67900D4407A /* ImplementUnitTestingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImplementUnitTestingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6635F5062AC6D67900D4407A /* ImplementUnitTestingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementUnitTestingUITests.swift; sourceTree = "<group>"; };
 		6635F5082AC6D67900D4407A /* ImplementUnitTestingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplementUnitTestingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6635F5152AC6D69600D4407A /* Checkout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Checkout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				6635F4ED2AC6D67800D4407A /* ContentView.swift */,
 				6635F4EF2AC6D67800D4407A /* Assets.xcassets */,
 				6635F4F12AC6D67800D4407A /* Preview Content */,
+				6635F5152AC6D69600D4407A /* Checkout.swift */,
 			);
 			path = ImplementUnitTesting;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6635F5162AC6D69600D4407A /* Checkout.swift in Sources */,
 				6635F4EE2AC6D67800D4407A /* ContentView.swift in Sources */,
 				6635F4EC2AC6D67800D4407A /* ImplementUnitTestingApp.swift in Sources */,
 			);
